@@ -1,5 +1,7 @@
 <div align="center">
-  <video src="https://github.com/yajuvendrasinh/yajuvendrasinh/raw/main/banner-vid.mp4" width="100%" autoplay loop muted playsinline></video>
+
+https://github.com/yajuvendrasinh/yajuvendrasinh/raw/main/banner-vid.mp4
+
 </div>
 
 <h1 align="center">Yajuvendra</h1>
