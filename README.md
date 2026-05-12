@@ -1,7 +1,5 @@
 <div align="center">
-
-https://github.com/yajuvendrasinh/yajuvendrasinh/raw/main/banner-vid.mp4
-
+  <img src="./banner-vid.gif" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">Yajuvendra</h1>
