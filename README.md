@@ -1,8 +1,8 @@
 <div align="center">
-  <video src="./banner-vid.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="https://github.com/yajuvendrasinh/yajuvendrasinh/raw/main/banner-vid.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
-<h1 align="center">Antigravity</h1>
+<h1 align="center">Yajuvendra</h1>
 <p align="center">
   <em>Multi-disciplinary Architect | Full-Stack Engineering x Data Science x Sustainable Finance</em>
 </p>
