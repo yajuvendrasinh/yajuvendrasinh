@@ -66,5 +66,5 @@ I am currently focused on **building tools that democratize sustainable trading 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/yajuvendrasinh"><img src="./github-button.png" alt="GitHub Profile" width="150" /></a>
+  <a href="https://github.com/yajuvendrasinh"><img src="./github-btn-v2.png" alt="GitHub Profile" width="150" /></a>
 </div>
